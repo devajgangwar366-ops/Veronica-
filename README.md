@@ -1,0 +1,2 @@
+# Veronica-
+Personal ai assitant 
